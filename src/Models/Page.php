@@ -37,7 +37,8 @@ class Page extends Model
     {
         return [
             'meta_keywords' => 'array',
-            'content' => 'json',
+            'content' => 'array',
+            'sections' => 'json',
         ];
     }
 
