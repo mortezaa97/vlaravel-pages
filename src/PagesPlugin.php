@@ -27,6 +27,7 @@ class PagesPlugin implements Plugin
     {
         $panel
             ->resources([
+                
 //                'CartResource' => CartResource::class,
 //                'OrderResource' => OrderResource::class,
 //                'PayTypeResource' => PayTypeResource::class,
